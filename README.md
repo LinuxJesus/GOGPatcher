@@ -10,5 +10,5 @@ export LD_LIBRARY_PATH=/home/$USER/Documents/LinuxLibraries/i386:/home/$USER/Doc
 If your game is some random executable(argh!) then you can just run the above command and then run the executable.
 
 
-#Why?
+# Why?
 Because GOG doesnt take very good care for their linux game releases. So a lot of them are broken on install.
